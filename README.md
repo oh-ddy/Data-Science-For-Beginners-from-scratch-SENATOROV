@@ -5,4 +5,7 @@
 - Улучшен [интро](https://github.com/SENATOROVAI/intro/blob/main/README.md),[обновлена структура](https://github.com/SENATOROVAI/intro/issues/10), спасибо [savemysoul382](https://github.com/savemysoul382)
 - Улучшен [ишьюс git](https://github.com/SENATOROVAI/intro-cs/issues/1), [обновлена структура](https://github.com/SENATOROVAI/intro-cs/issues/15), спасибо [savemysoul382](https://github.com/savemysoul382)
 - [Тестирование функционала](https://github.com/SENATOROVAI/intro/issues/11), спасибо [smrnvdn](https://github.com/smrnvdn)
+
+# Другие улучшения 
 - Опечатка в курсе по [множественной регрессии](https://stepik.org/lesson/1792642/step/10?auth=login&unit=1818331), некорректная формулировка, спасибо [rizespbya](https://github.com/rizespbya)
+- Опечатка в курсе по [множественной регрессии](https://stepik.org/lesson/1792746/step/1?unit=1818436), формула обратной матрицы, спасибо [rizespbya](https://github.com/rizespbya)
