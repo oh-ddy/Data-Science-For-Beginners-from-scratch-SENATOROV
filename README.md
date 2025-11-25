@@ -9,3 +9,4 @@
 # Другие улучшения 
 - Опечатка в курсе по [множественной регрессии](https://stepik.org/lesson/1792642/step/10?auth=login&unit=1818331), некорректная формулировка, спасибо [rizespbya](https://github.com/rizespbya)
 - Опечатка в курсе по [множественной регрессии](https://stepik.org/lesson/1792746/step/1?unit=1818436), формула обратной матрицы, спасибо [rizespbya](https://github.com/rizespbya)
+- Обновление интро,внедрение раздела о нас, договора, средство коммуникации, спасибо [rizespbya](https://github.com/ViktorVinogradov89)
