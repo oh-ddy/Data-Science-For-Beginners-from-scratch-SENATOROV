@@ -12,4 +12,5 @@
 - Улучшение курса [множественной регрессии](https://stepik.org/lesson/1792746/step/1?unit=1818436), внедрение хэлперов и курса академ. математики, спасибо [rizespbya](https://github.com/rizespbya)
 - Улучшение курса [простая регрессия](https://stepik.org/lesson/1734634/step/3?unit=1758544), внедрение лупы и доп. заданий python, спасибо [Jazzyflavor](https://github.com/Jazzyflavor) доп. акк [Jazzyflavor](https://github.com/J4zzyflavor)
 - Обновление интро,внедрение раздела о нас, договора, средства коммуникации, спасибо [ViktorVinogradov89](https://github.com/ViktorVinogradov89)
+- Улучшение курса [множественная регрессия](https://stepik.org/lesson/1792608/step/10?unit=1818297), внедрение Data Leakage, спасибо [smrnvdn](https://github.com/smrnvdn)
 
