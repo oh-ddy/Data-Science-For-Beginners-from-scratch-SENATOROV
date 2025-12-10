@@ -182,7 +182,14 @@ print(min(nums_), max(nums_), sum(nums_))
 #
 
 # +
-names: list[str] = ["Arthur", "Anton", "Alex", "Boris", "Victor", "Eugene"]
+names: list[str] = [
+    "Arthur",
+    "Anton",
+    "Alex",
+    "Boris",
+    "Victor",
+    "Eugene",
+]
 a_names_var: list[str] = []
 
 for name in names:
@@ -198,8 +205,10 @@ a_names
 lower_names: list[str] = [name.lower() for name in names]
 lower_names
 
-replace_name: list[str] = [name if name != "Victor" else "Vlad" for name in names]
-replace_name
+# +
+# replace_name: list[str] =
+# ["Vlad" if name == "Victor" else name for name in names]
+# replace_name
 
 # +
 lemmatized: list[str] = [
@@ -272,7 +281,12 @@ for company in enumerate(companies):
 #
 
 # +
-shopping_dict: dict[str, int] = {"cucumber": 3, "tomato": 2, "onion": 1, "potato": 2}
+shopping_dict: dict[str, int] = {
+    "cucumber": 3,
+    "tomato": 2,
+    "onion": 1,
+    "potato": 2,
+}
 
 for item in shopping_dict.items():
     print(item)
@@ -294,7 +308,14 @@ for k_var, v_var in shopping_dict.items():
 #
 
 # +
-names_list: list[str] = ["Arthur", "Anton", "Alex", "Boris", "Victor", "Eugene"]
+names_list: list[str] = [
+    "Arthur",
+    "Anton",
+    "Alex",
+    "Boris",
+    "Victor",
+    "Eugene",
+]
 income: list[int] = [97000, 110000, 95000, 84000, 140000, 120000]
 
 zip(names_list, income)
