@@ -55,7 +55,6 @@ days_list[1:5]
 # -
 
 days_list[:5:2]
-
 "Mon" in days_list
 
 if "Tue" in days_list:
